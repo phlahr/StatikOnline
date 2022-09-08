@@ -1,5 +1,16 @@
 {
-    "EC 1990" : "Grundlagen der Tragwerksplanung",
+    "EC 1990" : {
+        "definition":"Grundlagen der Tragwerksplanung",
+        "subnorms" : {
+            
+        },
+        "national" : {
+
+        },
+        "changes" : {
+
+        }
+    },
     "EC 1991" : "Einwirkungen auf Tragwerke",
     "EC 1992" : "Bemessung und Konstruktion von Stahlbeton- und Spannbetontragwerken",
     "EC 1993" : "Bemessung und Konstruktion von Stahlbauten",
