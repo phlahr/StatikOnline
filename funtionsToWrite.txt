@@ -1,8 +1,45 @@
 - Projektauswahl
 - Büroeinstellungen
-- Expositionsklassen
-- Berechnungen von Federsteifigkeiten
 - Material- und Querschnittswerte
 - Solver
 - Berechnungen nach Theorie II Ordnung
-- 
+- Dokumenten
+
+
+
+
+- Berechungen:  
+    - statische Nutzhöhe
+    - eff. mitwirkende Breite 
+    - Betondeckung 
+    - Federsteifigkeiten
+    - Mindestbetondruckfestigkeiten
+    - Schwer- und Schubmittelpunkt
+    - Kriechen und Schwinden (Rissbreitennachweis)
+    - 
+
+
+
+- Nachweisbereiche
+    1. Lastermittlung + Lastweiterleitung
+        1.1 Schnee 
+        1.2 Wind 
+        1.3 Feuer
+        1.4 Erde 
+        1.5 Lastannahmen und Aufbauten
+    2. Hochbau
+        2.1 Stahlbeton
+        2.2 Spannbeton 
+        2.3 Stahl 
+        2.4 Holz
+        2.5 Mauerwerk
+        2.6 Aluminium
+        2.7 Bauzustandsberücksichtigung
+    3. Grundbau
+        3.1 Fundamente
+        3.2 Pfähle
+        3.3 Platten 
+        3.4 Roste
+    4. Stabwerke 
+    6. Erdbeben + Aussteifung
+    7. Detailnachweise 
