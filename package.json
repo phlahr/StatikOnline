@@ -40,7 +40,7 @@
   },
   "scripts": {
     "start": "",
-    "dev": "nodemon ./_qsumrechnung.js"
+    "dev": "nodemon ./_schwerpunkt.js"
   },
   "repository": {
     "type": "git",
